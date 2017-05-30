@@ -262,8 +262,9 @@ nav ul
 .contenair
 {
 	flex-direction: column;
-	text-align: center;
-	margin-left: 70px;
+	width: 200px;
+	margin: 5% 20% 5% 30%;
+
 }
 .banniere
 {
@@ -276,7 +277,7 @@ footer
 }
 .but2
 {
-	margin-left: -10px;
+	margin : 5% 20% 5% 20%;
 }
 
 }
@@ -302,6 +303,7 @@ footer
 .element
 {
 	width: 120px;
+
 }
 
 
